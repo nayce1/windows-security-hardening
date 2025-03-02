@@ -1,0 +1,24 @@
+# Ignore PowerShell backup and cache files
+*.ps1~
+*.ps1c
+*.ps1xml
+
+# Ignore logs and reports
+*.log
+*.csv
+*.json
+Security_Audit_Report.txt
+
+# Ignore temporary and compiled files
+*.tmp
+*.bak
+*.out
+
+# Ignore PowerShell modules and settings
+*.psm1
+*.psd1
+*.pssc
+
+# Ignore system and hidden files
+.DS_Store
+Thumbs.db
