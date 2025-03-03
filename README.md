@@ -13,4 +13,4 @@ This PowerShell script automates essential security hardening tasks to protect W
 ## 📌 How to Use
 1. **Download the script**  
    ```powershell
-   Invoke-WebRequest -Uri "https://raw.githubusercontent.com/your-username/Windows-Security-Hardening/main/security_hardening.ps1" -OutFile "security_hardening.ps1"
+   Invoke-WebRequest -Uri "https://raw.githubusercontent.com/nayce1/Windows-Security-Hardening/main/security_hardening.ps1" -OutFile "security_hardening.ps1"
